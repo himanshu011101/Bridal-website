@@ -1,0 +1,6 @@
+{
+  "name": "Élan Bridal - Luxury Bridal Makeup & Beauty Studio",
+  "description": "Editorial high-fashion bridal makeup, couture hair artistry, and bespoke beauty experiences thoughtfully crafted for your most unforgettable moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
